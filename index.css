@@ -1,0 +1,59 @@
+
+
+#welcome
+{
+    left: 300px;
+    height: 120px;
+    width: 450px;
+    background-color: #c9ab5e;
+    margin: 10px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 40px;
+    position: relative;
+    font-family: sans-serif;
+    color: black;
+    font-size: 40px;
+    text-align: center;
+}
+
+#my-details
+{
+    
+    height: px;
+    width: 350px;
+    background-color: #0d152c;
+    margin: 100px auto;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 4px 4px 40px;
+    position: relative;
+    left: 300px; 
+    color: whitesmoke;
+    margin-top: 80px;
+    text-align: justify;
+    font-size: 19.5px;   
+
+}
+#button
+{
+    position: absolute;
+    left: 800px;
+    width: 140px;
+    border: none;
+    color: aliceblue;
+    background-color: #4CAF50;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    text-align: center;
+
+
+}
+
+ 
+      
+#button:hover {
+    background-color: #ddd;
+    color: black;
+  }
